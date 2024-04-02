@@ -1,15 +1,21 @@
 <h1 align="center">Hi 👋, I'm Deepak Maurya</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A Full Stack Developer</h3><p>
+  Tech Enthusiast, Software Architect from Delhi, India. I mostly deal with web development with 
+HTML5/CSS/Javascript,Bootstrap,Jquery,Laravel,Vuejs and ChatGPT, software development stack in these days.
+ I have 5+ years of development experience in architecting, designing, development and implementing of web applications, using Laravel and Web technologies.
+🔭 Working as a Software Engineer and contributing to frontend and backend for building web applications and portals.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bytegeniex&label=Profile%20views&color=0e75b6&style=flat" alt="bytegeniex" /> </p>
+🌱 I’m currently learning: Machine Learning,Artificial Intelligence systems and DevOps...
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bytegeniex" alt="bytegeniex" /></a> </p>
+🌱 Exploring Technical YouTube Videos .
 
-- 🔭 I’m currently working on **HR**
+⚡ In my free time, I create YouTube videos.
 
-- 🌱 I’m currently learning **AI,Python**
+📫How to reach me: Linkedin Badge Gmail Badge
 
-- 💬 Ask me about **PHP,Laravel, Mysql**
+🛠️ Languages and Tools :
+Laravel  Vuejs  PHP  Docker  Git  Nuxtjs  React  Redux   Python   CSS  HTML  JavaScript  NodeJS  Redis  Mysql  Bootstrap  Composer  AWS  Git
+</p>  
 
 - 📫 How to reach me **maurya9@gmail.com**
 
