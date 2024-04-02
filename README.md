@@ -2,7 +2,7 @@
 <h3 align="center">A Full Stack Developer</h3><p>
   Tech Enthusiast, Software Architect from Delhi, India. I mostly deal with web development with 
 HTML5/CSS/Javascript,Bootstrap,Jquery,Laravel,Vuejs and ChatGPT, software development stack in these days.
- I have 5+ years of development experience in architecting, designing, development and implementing of web applications, using Laravel and Web technologies.
+ I have 6+ years of development experience in architecting, designing, development and implementing of web applications, using Laravel and Web technologies.
 🔭 Working as a Software Engineer and contributing to frontend and backend for building web applications and portals.
 
 🌱 I’m currently learning: Machine Learning,Artificial Intelligence systems and DevOps...
