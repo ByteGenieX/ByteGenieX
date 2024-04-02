@@ -1,5 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Deepak Maurya</h1>
 <h3 align="center">A Full Stack Developer</h3><p>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
   Tech Enthusiast, Software Architect from Delhi, India. I mostly deal with web development with 
 HTML5/CSS/Javascript,Bootstrap,Jquery,Laravel,Vuejs and ChatGPT, software development stack in these days.
  I have 6+ years of development experience in architecting, designing, development and implementing of web applications, using Laravel and Web technologies.
