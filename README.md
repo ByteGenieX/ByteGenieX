@@ -7,7 +7,7 @@ HTML5/CSS/Javascript,Bootstrap,Jquery,Laravel,Vuejs and ChatGPT, software develo
  I have 6+ years of development experience in architecting, designing, development and implementing of web applications, using Laravel and Web technologies.
 🔭 Working as a Software Engineer and contributing to frontend and backend for building web applications and portals.
 
-🌱 I’m currently learning: Machine Learning,Artificial Intelligence systems and DevOps...
+🌱 I’m currently learning: Machine Learning,Artificial Intelligence systems and DevOps....
 
 🌱 Exploring Technical YouTube Videos .
 
