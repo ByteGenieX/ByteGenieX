@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Deepak Maurya</h1>
 <h3 align="center">A Full Stack Developer</h3><p>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-  Tech Enthusiast, Software Architect from Delhi, India. I mostly deal with web development with 
-HTML5/CSS/Javascript,Bootstrap,Jquery,Laravel,Vuejs and ChatGPT, software development stack in these days.
- I have 6+ years of development experience in architecting, designing, development and implementing of web applications, using Laravel and Web technologies.
+  Tech Enthusiast, Software Architect from New Delhi, India. I mostly deal with web development, web application and mobile app development with 
+HTML5/CSS/Javascript,Bootstrap,Jquery,Laravel,VUE js and ChatGPT, software development stack in these days.
+ I have 7+ years of development experience in architecting, designing, development, security and implementing of web applications, using Laravel and Web technologies.
 🔭 Working as a Software Engineer and contributing to frontend and backend for building web applications and portals.
 
 🌱 I’m currently learning: Machine Learning,Artificial Intelligence systems and DevOps....
 
 🌱 Exploring Technical YouTube Videos .
 
-⚡ In my free time, I create YouTube videos.
+⚡ In my free time, I create YouTube videos or rnd new technology.
 
-📫How to reach me: Linkedin Badge Gmail Badge
+📫How to reach me: Linkedin Badge Gmail Badge 
 
 🛠️ Languages and Tools :
-Laravel  Vuejs  PHP  Docker  Git  Nuxtjs  React  Redux   Python   CSS  HTML  JavaScript  NodeJS  Redis  Mysql  Bootstrap  Composer  AWS  Git
+Laravel  Vuejs  PHP  Docker  Git  Nuxtjs  React  Redux   Python   CSS  HTML  JavaScript  NodeJS  Redis  Mysql  Bootstrap  Composer  AWS  Git Kubernet Azure Google cloud Mongodb database Articheture
 </p>  
 
 - 📫 How to reach me **maurya9@gmail.com**
