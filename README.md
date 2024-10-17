@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Deepak Maurya</h1>
-<h3 align="center">A Full Stack Developer</h3><p>
+<h1 align="center">Hi, 👋 I'm Deepak Maurya</h1>
+<h3 align="center"> Full Stack Developer</h3><p>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
   Tech Enthusiast, Software Architect from New Delhi, India. I mostly deal with web development, web application and mobile app development with 
 HTML5/CSS/Javascript,Bootstrap,Jquery,Laravel,VUE js and ChatGPT, software development stack in these days.
