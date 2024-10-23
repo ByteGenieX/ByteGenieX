@@ -18,7 +18,7 @@ HTML5/CSS/Javascript,Bootstrap,Jquery,Laravel,VUE js and ChatGPT, software devel
 Laravel  Vuejs  PHP  Docker  Git  Nuxtjs  React  Redux   Python   CSS  HTML  JavaScript  NodeJS  Redis  Mysql  Bootstrap  Composer  AWS  Git Kubernet Azure Google cloud Mongodb database Articheture
 </p>  
 
-- 📫 How to reach me **deepakkmaurya@gmail.com**
+- 📫 How to reach me **deepak13rd@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
